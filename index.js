@@ -42,6 +42,7 @@ function renderGame() {
     } else if (sum === 21) {
         message = "Got blackjack!"
         hasBlackJack = true
+        isAlive = false
     } else {
         message = "Out of game"
         isAlive = false
