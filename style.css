@@ -1,0 +1,30 @@
+body{
+    background-color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: gold;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+p{
+    color: aliceblue;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+#message-el {
+    font-size: 48px;
+}
+
+button {
+    background-color: gold;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    width: 200px;
+    margin: 10px;
+}
